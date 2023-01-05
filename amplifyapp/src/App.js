@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Rich's React.js App running in AWS.
+          Rich's React.js App running in AWS. Uses AWS Amplify and GraphQL.
         </p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
