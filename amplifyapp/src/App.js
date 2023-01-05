@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Rich's staric website, hosted in AWS.
+          Rich's static website, hosted in AWS.
         </p>
       </header>
     </div>
